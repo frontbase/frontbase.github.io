@@ -1,4 +1,1 @@
-frontbase
-=========
-
-Web presentation of the Frontbase devstack
+Web presentation of the [Frontbase](https://github.com/Clevis/Frontbase) devstack
